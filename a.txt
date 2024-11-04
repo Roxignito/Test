@@ -1,0 +1,15 @@
+<|im_start|>system
+You are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>
+<|im_start|>user
+Write a python code for hello world<|im_end|>
+
+<|im_start|>system
+You are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>
+<|im_start|>user
+Write a python code for hello world<|im_end|>
+<|im_start|>assistant
+```python
+print("Hello, World!")
+```
+
+This code uses the `print()` function to print the string "Hello, World!" to the console.<|im_end|>
